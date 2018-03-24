@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/stanford-corenlp-full-2018-02-27/stanford-corenlp-full-2018-02-27" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Downloads/stanford-corenlp-full-2018-02-27/stanford-corenlp-full-2018-02-27" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Downloads/stanford-corenlp-full-2018-02-27/stanford-corenlp-full-2018-02-27" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Downloads/stanford-corenlp-full-2018-02-27/stanford-corenlp-full-2018-02-27" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="javax.xml.bind:jaxb-api:2.3.0" level="project" />
+    <orderEntry type="library" name="com.sun.xml.bind:jaxb-impl:2.2.4-1" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Documents/UMD/CMSC351/stanford-english-kbp-corenlp-2018-02-27-models" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/Documents/UMD/CMSC351/stanford-english-kbp-corenlp-2018-02-27-models" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Documents/UMD/CMSC351/stanfordNLP" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/Documents/UMD/CMSC351/stanfordNLP" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
